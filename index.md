@@ -11,3 +11,6 @@ Pielikām 3 virsrakstus angliski.
 ``` javascript
 var myVar = "Sveika, pasaule!!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
