@@ -8,3 +8,6 @@
 
 Pielikām 3 virsrakstus angliski.
 
+``` javascript
+var myVar = "Sveika, pasaule!!";
+```
